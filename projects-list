@@ -1,0 +1,47 @@
+[
+  {
+    "name": "The Recipe Finder",
+    "description": "The Recipe Finder is a React and Tailwind CSS web app that lets users discover delicious meals using real-time data from TheMealDB API.",
+    "link": {
+      "href": "https://the-recipe-finder-dusky.vercel.app/",
+      "label": "the recipe finder"
+    },
+    "logo": "https://via.placeholder.com/100?text=Logo"
+  },
+  {
+    "name": "Movie Central",
+    "description": "Movie Central is a dynamic movie web app built with React, Redux Toolkit, and SCSS, featuring real-time API integration and lazy loading for seamless browsing.",
+    "link": {
+      "href": "https://movie-project-seven-psi.vercel.app/",
+      "label": "Movie Central"
+    },
+    "logo": "https://via.placeholder.com/100?text=Logo"
+  },
+  {
+    "name": "Job Application Bot",
+    "description": "Job Application Bot is a Next.js and Tailwind CSS web app that automates job outreach by parsing CSV files and sending emails using Nodemailer.",
+    "link": {
+      "href": "https://job-application-bot.vercel.app/",
+      "label": "Job Application Bot"
+    },
+    "logo": "https://via.placeholder.com/100?text=Logo"
+  },
+  {
+    "name": "Hadith Generator",
+    "description": "Hadith Generator is a React app using React Router, Tailwind CSS, and the Hadith API to display random Islamic hadiths in a clean, responsive interface.",
+    "link": {
+      "href": "https://hadith-nine.vercel.app/",
+      "label": "Hadith Generator"
+    },
+    "logo": "https://via.placeholder.com/100?text=Logo"
+  },
+  {
+    "name": "AI Fitness Coach",
+    "description": "AI Fitness Coach is a Next.js app with Firebase authentication, Tailwind CSS, Uncertainty UI, and localStorage to deliver a personalized fitness tracking experience.",
+    "link": {
+      "href": "https://ai-fitness-coach-byak.vercel.app/",
+      "label": "AI Fitness Coach"
+    },
+    "logo": "https://via.placeholder.com/100?text=Logo"
+  }
+]
