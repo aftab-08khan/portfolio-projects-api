@@ -43,5 +43,14 @@
       "label": "AI Fitness Coach"
     },
     "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
+  },
+  {
+    "name": "Just-Buy App",
+    "description": "JustBuy is a cross-platform mobile app built with React Native and Expo, designed to provide a seamless shopping experience. It features real-time notifications powered by Expo Notifications, efficient data handling via GitHub API integration, and a responsive user interface.",
+    "link": {
+      "href": "https://expo.dev/preview/update?message=offer+tab+created&updateRuntimeVersion=1.0.0&createdAt=2025-07-19T12%3A53%3A27.010Z&slug=exp&projectId=50e43fd7-165b-462b-9bb3-5afea857122e&group=0351a45b-eb49-43af-b438-8a97ef9b4786",
+      "label": "Just-Buy App"
+    },
+    "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
   }
 ]
