@@ -52,5 +52,15 @@
       "label": "Just-Buy App"
     },
     "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
-  }
+  },
+{
+  "name": "Machine Coding Tasks",
+  "description": "Machine Coding Tasks is a collection of real-world React.js interview challenges built using React, Tailwind CSS, and React Router DOM. Each task focuses on core front-end problem-solving skills, including component composition, state management, conditional rendering, routing, controlled forms, and responsive design. These challenges simulate real-time feature implementation in modern single-page applications, helping developers sharpen their practical React skills.",
+  "link": {
+    "href": "https://machine-coding-tasks.vercel.app/",
+    "label": "Machine Coding Tasks"
+  },
+  "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
+}
+
 ]
