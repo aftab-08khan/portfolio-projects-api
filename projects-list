@@ -4,7 +4,7 @@
     "description": "The Recipe Finder is a React and Tailwind CSS web app that lets users discover delicious meals using real-time data from TheMealDB API.",
     "link": {
       "href": "https://the-recipe-finder-dusky.vercel.app/",
-      "label": "the recipe finder"
+      "label": "The Recipe Finder"
     },
     "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
   },
@@ -53,14 +53,32 @@
     },
     "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
   },
-{
-  "name": "Machine Coding Tasks",
-  "description": "A collection of React.js interview-style tasks built with React, Tailwind CSS, and React Router DOM. It includes dynamic UI components, form handling, routing, and real-world problem-solving challenges to sharpen frontend skills.",
-  "link": {
-    "href": "https://machine-coding-tasks.vercel.app/",
-    "label": "Machine Coding Tasks"
+  {
+    "name": "Machine Coding Tasks",
+    "description": "A collection of React.js interview-style tasks built with React, Tailwind CSS, and React Router DOM. It includes dynamic UI components, form handling, routing, and real-world problem-solving challenges to sharpen frontend skills.",
+    "link": {
+      "href": "https://machine-coding-tasks.vercel.app/",
+      "label": "Machine Coding Tasks"
+    },
+    "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
   },
-  "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
-}
-
+  {
+    "name": "Metarch",
+    "description": "Metarch is a responsive and visually engaging design website built with Next.js, Tailwind CSS, Firebase, and Framer Motion, focused on performance, animations, and SEO-friendly structure.",
+    "link": {
+      "href": "https://metarch.vercel.app",
+      "label": "Metarch"
+    },
+    "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
+  },
+  {
+    "name": "Weather App",
+    "description": "A modern weather dashboard built using React.js and Tailwind CSS with real-time data from Weather API. Includes smooth animations with Framer Motion and data visualization using Recharts.",
+    "link": {
+      "href": "https://weather-app-by-ak.vercel.app",
+      "label": "Weather App"
+    },
+    "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
+  }
+]
 ]
