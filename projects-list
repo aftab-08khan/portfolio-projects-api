@@ -79,6 +79,15 @@
       "label": "Weather App"
     },
     "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
-  }
+  },
+{
+  "name": "Property Finder Dashboard",
+  "description": "A modern, data-driven real estate dashboard inspired by Property Finder and Bayut, built to explore how real-world rental platforms work. This project reflects my interest in turning complex data into clean, intuitive, and user-friendly interfaces. It visualizes UAE rental data with interactive grouped bar charts showing average rent, beds, bathrooms, and area per city. Built with a strong focus on performance, responsive design, and practical problem-solving using React, Next.js, Tailwind CSS, Recharts, and CSV-to-JSON data processing.",
+  "link": {
+    "href": "https://property-finder-byak.vercel.app",
+    "label": "Property Finder"
+  },
+  "logo": "https://thumbs.dreamstime.com/b/projects-vector-web-button-icon-projects-blue-square-web-button-caption-icon-vector-117809377.jpg"
+}
 ]
 
